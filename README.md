@@ -12,3 +12,5 @@
 |   |Deutschland|Schweiz|
 |:--|:----------|:------|
 |Einwohner|80 mio|8 mio|
+
+Auch bei GitHub kann text *kursiv* oder **fett** dargestellt werden.
